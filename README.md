@@ -37,3 +37,13 @@ Add the following to `application/config/extensions.php`:
 ```
 $config['extensions']['enabled'][] = 'jquery';
 ```
+
+## Issues
+
+If you encounter a bug or have a feature request, please report it on GitHub in the issue tracker here: https://github.com/jonmatterson/nova-ext-jquery/issues
+
+## License
+
+Copyright (c) 2018-2019 Jon Matterson.
+
+This module is open-source software licensed under the **MIT License**. The full text of the license may be found in the `LICENSE` file.
